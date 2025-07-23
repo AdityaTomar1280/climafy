@@ -50,6 +50,12 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 
 ---
 
+## Deployment
+
+Climafy is deployed and available at [https://climafy-l2pm.vercel.app/](https://climafy-l2pm.vercel.app/).
+
+---
+
 ## API References
 
 - [GeoDB Cities API](https://rapidapi.com/wirefreethought/api/geodb-cities/)
