@@ -7,7 +7,7 @@
 ## Features
 
 - City autocomplete search using the GeoDB Cities API
-- Real-time current weather and 5-day forecast via OpenWeatherMap
+- Real-time current weather and 7-day forecast via OpenWeatherMap
 - Displays temperature, humidity, wind speed, pressure, and more
 - Dark-themed weather card with responsive design
 
